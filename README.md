@@ -33,7 +33,7 @@ en tiempo real entre los usuarios conectados a un mismo proyecto.
 
 1. Clonar el repositorio:
 ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/EstrellaPrado/kanban-realtime.git
    cd kanban-realtime
 ```
 
